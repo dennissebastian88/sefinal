@@ -34,7 +34,7 @@
                                 <div class="carousel-caption">
                                      <h1 class="animated fadeInLeft">KPS Steel</h1>
                                      <p class="animated fadeInUp">KPS Steel is the LEADING steel company in Indonesia</p>
-                                     <p class="animated fadeInUp"><a href="#" class="btn btn-transparent btn-rounded btn-large">Learn More</a></p>
+                                     <p class="animated fadeInUp"><a href="history.php" class="btn btn-transparent btn-rounded btn-large">Learn More</a></p>
                                 </div>
                             </div>
                             <div class="item">
@@ -43,7 +43,7 @@
                                 <div class="carousel-caption">
                                      <h1 class="animated fadeInLeft">Best Quality</h1>
                                      <p class="animated fadeInUp">We only offer the best quality products</p>
-                                     <p class="animated fadeInUp"><a href="#" class="btn btn-transparent btn-rounded btn-large">Learn More</a></p>
+                                     <p class="animated fadeInUp"><a href="products.php" class="btn btn-transparent btn-rounded btn-large">Learn More</a></p>
                                 </div>
                             </div>
                             <div class="item">
@@ -52,7 +52,7 @@
                                 <div class="carousel-caption">
                                      <h1 class="animated fadeInLeft">Your Solution</h1>
                                      <p class="animated fadeInUp">KPS Steel is your trusted steel solution</p>
-                                     <p class="animated fadeInUp"><a href="#" class="btn btn-transparent btn-rounded btn-large">Learn More</a></p>
+                                     <p class="animated fadeInUp"><a href="contactus.php" class="btn btn-transparent btn-rounded btn-large">Learn More</a></p>
                                 </div>
                             </div>
                         </div>
@@ -241,7 +241,10 @@
                 <div class="call-out">
                     <div class="text-label">
                         <h2>WE TAKE YOUR BUSINESS FURTHER</h2>
-                        <p>There are many variations of our products to accomode your need.</p>
+                        <p>There are many variations of our products to accomode your need.</p><br />
+                        <h2>OUR CUSTOMERS</h2><br />
+                        <p>Perusahaan-perusahaan yang telah mempercayakan kemitraannya dengan PT Karya Perkasa Steelindo seperti : PT Super Tata Raya Steel , PT Perwira Adhitama Sejati , Mega Baja Grup, PT Marga Sejahtera Bersamatama, PT Sinar Agung Metalindo, PT Intisumber Bajasakti, Perjuangan Steel dan banyak lagi perusahaan perusahaan besar lainnya.</p>
+											<p>Didukung oleh PT Bank Central Asia Tbk, sebagai bank utama .</p>
                     </div>
 					<!--
                     <p><button type="button" class="btn-callout">GET A QUOTE</button></p>

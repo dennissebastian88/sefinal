@@ -45,11 +45,10 @@
 										<li class="divider"></li>
 										<li><a href="management.php">Management</a></li>
 										<li class="divider"></li>
-										<li><a href="vissionmission.php">Vission and Mission</a></li> 
+										<li><a href="visionmission.php">Vision and Mission</a></li> 
 								</ul>
 						</li>
 						<li><a href="products.php">OUR PRODUCTS</a></li>
-						<li><a href="references.php">REFERENCES</a></li>
 						<li><a href="contactus.php">CONTACT US</a></li>
 					</ul>
 				</div>
