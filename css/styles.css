@@ -854,7 +854,7 @@ figure.effect-lily:hover p {
    9. PAGES COMMON STYLES.
    ========================================================================== */
 .pages-header{
-    background-image: url("http://placehold.it/1920x800");
+    background-image: url("../img/home/slideshow_02.jpg");
     height: 400px; 
     background-attachment: fixed;
     background-position: center;
