@@ -242,7 +242,7 @@
                     <div class="text-label">
                         <h2>WE TAKE YOUR BUSINESS FURTHER</h2>
                         <p>There are many variations of our products to accomode your need.</p><br />
-                        <h2>OUR CUSTOMERS</h2><br />
+                        <h2>OUR CUSTOMERS</h2>
                         <p>Perusahaan-perusahaan yang telah mempercayakan kemitraannya dengan PT Karya Perkasa Steelindo seperti : PT Super Tata Raya Steel , PT Perwira Adhitama Sejati , Mega Baja Grup, PT Marga Sejahtera Bersamatama, PT Sinar Agung Metalindo, PT Intisumber Bajasakti, Perjuangan Steel dan banyak lagi perusahaan perusahaan besar lainnya.</p>
 											<p>Didukung oleh PT Bank Central Asia Tbk, sebagai bank utama .</p>
                     </div>
